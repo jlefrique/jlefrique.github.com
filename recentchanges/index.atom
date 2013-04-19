@@ -17,7 +17,68 @@
 
 <subtitle type="html">jlefrique-wiki</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2013-04-19T17:54:43Z</updated>
+<updated>2013-04-19T18:03:32Z</updated>
+<entry>
+	<title>change to jlefrique-wiki.setup on jlefrique-wiki</title>
+
+	<id>http://julien.lefrique.name/recentchanges/change_0e9e5271793275754fa4bd4a336676a532eba9e6/</id>
+
+	<link href="http://julien.lefrique.name/recentchanges/#change-0e9e5271793275754fa4bd4a336676a532eba9e6"/>
+
+	<author><name>julien.lefrique</name></author>
+
+
+
+
+
+	<updated>2013-04-19T18:03:32Z</updated>
+	<published>2013-04-19T18:03:32Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-0e9e5271793275754fa4bd4a336676a532eba9e6&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+jlefrique-wiki.setup
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:03:32 PM 04/19/2013&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add configuration file.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to about on jlefrique-wiki</title>
 
