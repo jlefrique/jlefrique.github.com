@@ -17,13 +17,13 @@
 
 <subtitle type="html">jlefrique-wiki</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2013-04-19T18:03:32Z</updated>
+<updated>2013-04-19T19:01:15Z</updated>
 <entry>
 	<title>change to jlefrique-wiki.setup on jlefrique-wiki</title>
 
-	<id>http://julien.lefrique.name/recentchanges/change_0e9e5271793275754fa4bd4a336676a532eba9e6/</id>
+	<id>http://julien.lefrique.name/recentchanges/change_9746df57787f0a497c0ca08d900caf74d2164822/</id>
 
-	<link href="http://julien.lefrique.name/recentchanges/#change-0e9e5271793275754fa4bd4a336676a532eba9e6"/>
+	<link href="http://julien.lefrique.name/recentchanges/#change-9746df57787f0a497c0ca08d900caf74d2164822"/>
 
 	<author><name>julien.lefrique</name></author>
 
@@ -31,8 +31,8 @@
 
 
 
-	<updated>2013-04-19T18:03:32Z</updated>
-	<published>2013-04-19T18:03:32Z</published>
+	<updated>2013-04-19T19:01:15Z</updated>
+	<published>2013-04-19T19:01:15Z</published>
 
 	<content type="html" xml:lang="en">
 	
@@ -41,7 +41,7 @@
 
 
 
-&lt;div id=&quot;change-0e9e5271793275754fa4bd4a336676a532eba9e6&quot; class=&quot;metadata&quot;&gt;
+&lt;div id=&quot;change-9746df57787f0a497c0ca08d900caf74d2164822&quot; class=&quot;metadata&quot;&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
@@ -60,14 +60,14 @@ julien.lefrique
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
 &lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:03:32 PM 04/19/2013&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;09:01:15 PM 04/19/2013&lt;/span&gt;&lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
 
 &lt;/div&gt;
 &lt;div class=&quot;changelog&quot;&gt;
 
 
-Add configuration file.&lt;br /&gt;
+Restart from scratch.&lt;br /&gt;
 
 
 &lt;/div&gt;
@@ -80,11 +80,11 @@ Add configuration file.&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to about on jlefrique-wiki</title>
+	<title>change to .gitignore on jlefrique-wiki</title>
 
-	<id>http://julien.lefrique.name/recentchanges/change_5eb351a09da19605c4e884290c719c072278d914/</id>
+	<id>http://julien.lefrique.name/recentchanges/change_dce597240b54b1d9764d29756245dac6699a1ac8/</id>
 
-	<link href="http://julien.lefrique.name/recentchanges/#change-5eb351a09da19605c4e884290c719c072278d914"/>
+	<link href="http://julien.lefrique.name/recentchanges/#change-dce597240b54b1d9764d29756245dac6699a1ac8"/>
 
 	<author><name>julien.lefrique</name></author>
 
@@ -92,8 +92,8 @@ Add configuration file.&lt;br /&gt;
 
 
 
-	<updated>2013-04-19T17:54:43Z</updated>
-	<published>2013-04-19T17:54:43Z</published>
+	<updated>2013-04-19T18:51:21Z</updated>
+	<published>2013-04-19T18:51:21Z</published>
 
 	<content type="html" xml:lang="en">
 	
@@ -102,14 +102,14 @@ Add configuration file.&lt;br /&gt;
 
 
 
-&lt;div id=&quot;change-5eb351a09da19605c4e884290c719c072278d914&quot; class=&quot;metadata&quot;&gt;
+&lt;div id=&quot;change-dce597240b54b1d9764d29756245dac6699a1ac8&quot; class=&quot;metadata&quot;&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
 
 
 
-about
+.gitignore
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
@@ -121,199 +121,14 @@ julien.lefrique
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
 &lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;07:54:43 PM 04/19/2013&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:51:21 PM 04/19/2013&lt;/span&gt;&lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
 
 &lt;/div&gt;
 &lt;div class=&quot;changelog&quot;&gt;
 
 
-Add some text to test.&lt;br /&gt;
-
-
-&lt;/div&gt;
-
-
-
-	</content>
-
-
-
-</entry>
-<entry>
-	<title>change to about index on jlefrique-wiki</title>
-
-	<id>http://julien.lefrique.name/recentchanges/change_70c76a7c71ed33e48f6bb7d9ef14f7706986bead/</id>
-
-	<link href="http://julien.lefrique.name/recentchanges/#change-70c76a7c71ed33e48f6bb7d9ef14f7706986bead"/>
-
-	<author><name>julien.lefrique</name></author>
-
-
-
-
-
-	<updated>2013-04-19T17:50:14Z</updated>
-	<published>2013-04-19T17:50:14Z</published>
-
-	<content type="html" xml:lang="en">
-	
-
-
-
-
-
-&lt;div id=&quot;change-70c76a7c71ed33e48f6bb7d9ef14f7706986bead&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-
-
-about
-
-index
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-julien.lefrique
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;07:50:14 PM 04/19/2013&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-
-Add about page.&lt;br /&gt;
-
-
-&lt;/div&gt;
-
-
-
-	</content>
-
-
-
-</entry>
-<entry>
-	<title>change to CNAME on jlefrique-wiki</title>
-
-	<id>http://julien.lefrique.name/recentchanges/change_ddd7653529172d3803a494cad46234ddf1e970bc/</id>
-
-	<link href="http://julien.lefrique.name/recentchanges/#change-ddd7653529172d3803a494cad46234ddf1e970bc"/>
-
-	<author><name>julien.lefrique</name></author>
-
-
-
-
-
-	<updated>2013-04-19T17:45:39Z</updated>
-	<published>2013-04-19T17:45:39Z</published>
-
-	<content type="html" xml:lang="en">
-	
-
-
-
-
-
-&lt;div id=&quot;change-ddd7653529172d3803a494cad46234ddf1e970bc&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-
-
-CNAME
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-julien.lefrique
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;07:45:39 PM 04/19/2013&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-
-Add CNAME.&lt;br /&gt;
-
-
-&lt;/div&gt;
-
-
-
-	</content>
-
-
-
-</entry>
-<entry>
-	<title>change to index on jlefrique-wiki</title>
-
-	<id>http://julien.lefrique.name/recentchanges/change_6f009ba0ddc7fee8547e4bfea9e86a6434c008db/</id>
-
-	<link href="http://julien.lefrique.name/recentchanges/#change-6f009ba0ddc7fee8547e4bfea9e86a6434c008db"/>
-
-	<author><name>julien.lefrique</name></author>
-
-
-
-
-
-	<updated>2013-04-19T17:44:06Z</updated>
-	<published>2013-04-19T17:44:06Z</published>
-
-	<content type="html" xml:lang="en">
-	
-
-
-
-
-
-&lt;div id=&quot;change-6f009ba0ddc7fee8547e4bfea9e86a6434c008db&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-
-
-index
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-julien.lefrique
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;07:44:06 PM 04/19/2013&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-
-Add index.&lt;br /&gt;
+initial commit&lt;br /&gt;
 
 
 &lt;/div&gt;
