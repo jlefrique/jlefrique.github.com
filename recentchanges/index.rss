@@ -8,6 +8,61 @@
 <description>jlefrique-wiki</description>
 <item>
 
+	<title>julien.lefrique: change to CNAME on jlefrique-wiki</title>
+	<dcterms:creator>julien.lefrique</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_76c7d130ac7de47e0f777bbb04ad2ae18b404ddd/</guid>
+
+	<link>http://julien.lefrique.name/recentchanges/#change-76c7d130ac7de47e0f777bbb04ad2ae18b404ddd</link>
+
+	<pubDate>Sat, 20 Apr 2013 19:47:22 +0200</pubDate>
+	<dcterms:modified>2013-04-20T17:47:22Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-76c7d130ac7de47e0f777bbb04ad2ae18b404ddd&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+CNAME
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;07:47:22 PM 04/20/2013&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add CNAME.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
 	<title>julien.lefrique: change to jlefrique-wiki.setup on jlefrique-wiki</title>
 	<dcterms:creator>julien.lefrique</dcterms:creator>
 
