@@ -40,6 +40,7 @@ add_plugins:
 - websetup
 - theme
 - favicon
+- sidebar
 # plugins to disable
 disable_plugins: []
 # additional directory to search for template files
@@ -374,7 +375,7 @@ theme: actiontabs
 
 # sidebar plugin
 # show sidebar page on all pages?
-#global_sidebars: 1
+global_sidebars: 1
 
 # tag plugin
 # parent page tags are located under
