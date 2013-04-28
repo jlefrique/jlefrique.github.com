@@ -17,7 +17,68 @@
 
 <subtitle type="html">Julien Lefrique</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2013-04-28T16:52:34Z</updated>
+<updated>2013-04-28T19:18:45Z</updated>
+<entry>
+	<title>change to contact on Julien Lefrique</title>
+
+	<id>http://julien.lefrique.name/recentchanges/change_1ace7c45fb3f62aca7926ad49edc6a772f77b304/</id>
+
+	<link href="http://julien.lefrique.name/recentchanges/#change-1ace7c45fb3f62aca7926ad49edc6a772f77b304"/>
+
+	<author><name>julien.lefrique</name></author>
+
+
+
+
+
+	<updated>2013-04-28T19:18:45Z</updated>
+	<published>2013-04-28T19:18:45Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-1ace7c45fb3f62aca7926ad49edc6a772f77b304&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+contact
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;09:18:45 PM 04/28/2013&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add page title.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to contact jlefrique-wiki.setup sidebar on Julien Lefrique</title>
 
