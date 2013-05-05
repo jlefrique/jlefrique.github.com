@@ -17,7 +17,68 @@
 
 <subtitle type="html">Julien Lefrique</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2013-05-04T13:02:12Z</updated>
+<updated>2013-05-05T20:38:54Z</updated>
+<entry>
+	<title>change to cv on Julien Lefrique</title>
+
+	<id>http://julien.lefrique.name/recentchanges/change_a97c387b9c60c688206c7a94559808f7ed1d1351/</id>
+
+	<link href="http://julien.lefrique.name/recentchanges/#change-a97c387b9c60c688206c7a94559808f7ed1d1351"/>
+
+	<author><name>julien.lefrique</name></author>
+
+
+
+
+
+	<updated>2013-05-05T20:38:54Z</updated>
+	<published>2013-05-05T20:38:54Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-a97c387b9c60c688206c7a94559808f7ed1d1351&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+cv
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;22:38:54 05/05/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add separator. Change header&amp;#39;s level.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to cv-julien-lefrique-en.pdf cv/cv-julien-lefrique-en.pdf on Julien Lefrique</title>
 
