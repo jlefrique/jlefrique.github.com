@@ -41,6 +41,7 @@ add_plugins:
 - theme
 - favicon
 - sidebar
+- meta
 # plugins to disable
 disable_plugins: []
 # additional directory to search for template files

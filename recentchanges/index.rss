@@ -8,6 +8,65 @@
 <description>Julien Lefrique</description>
 <item>
 
+	<title>julien.lefrique: change to about index jlefrique-wiki.setup on Julien Lefrique</title>
+	<dcterms:creator>julien.lefrique</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_24625684e5cfbb76b7aac7abc9f17462294b19d1/</guid>
+
+	<link>http://julien.lefrique.name/recentchanges/#change-24625684e5cfbb76b7aac7abc9f17462294b19d1</link>
+
+	<pubDate>Thu, 23 May 2013 19:49:53 +0200</pubDate>
+	<dcterms:modified>2013-05-23T17:49:53Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-24625684e5cfbb76b7aac7abc9f17462294b19d1&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+about
+
+index
+
+jlefrique-wiki.setup
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;19:49:53 05/23/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add OpenID delegation.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
 	<title>julien.lefrique: change to hosts hosts/gum hosts/larch hosts/walnut hosts/willow on Julien Lefrique</title>
 	<dcterms:creator>julien.lefrique</dcterms:creator>
 
