@@ -17,7 +17,135 @@
 
 <subtitle type="html">Julien Lefrique</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2013-05-23T17:49:53Z</updated>
+<updated>2013-05-26T11:43:18Z</updated>
+<entry>
+	<title>change to contact contact/jlefrique-public.key jlefrique-public.key on Julien Lefrique</title>
+
+	<id>http://julien.lefrique.name/recentchanges/change_97250ba1dac9858ef8a262ab8255bd132fd8c367/</id>
+
+	<link href="http://julien.lefrique.name/recentchanges/#change-97250ba1dac9858ef8a262ab8255bd132fd8c367"/>
+
+	<author><name>julien.lefrique</name></author>
+
+
+
+
+
+	<updated>2013-05-26T11:43:18Z</updated>
+	<published>2013-05-26T11:43:18Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-97250ba1dac9858ef8a262ab8255bd132fd8c367&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+contact
+
+contact/jlefrique-public.key
+
+jlefrique-public.key
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;13:43:18 05/26/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Move public key.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to contact jlefrique-public.key on Julien Lefrique</title>
+
+	<id>http://julien.lefrique.name/recentchanges/change_b15796a6e05d48f5bec05f0a9bcce8d6e32130d5/</id>
+
+	<link href="http://julien.lefrique.name/recentchanges/#change-b15796a6e05d48f5bec05f0a9bcce8d6e32130d5"/>
+
+	<author><name>julien.lefrique</name></author>
+
+
+
+
+
+	<updated>2013-05-26T11:31:05Z</updated>
+	<published>2013-05-26T11:31:05Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-b15796a6e05d48f5bec05f0a9bcce8d6e32130d5&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+contact
+
+jlefrique-public.key
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;13:31:05 05/26/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add contact informations.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to about index jlefrique-wiki.setup on Julien Lefrique</title>
 

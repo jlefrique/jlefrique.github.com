@@ -8,6 +8,122 @@
 <description>Julien Lefrique</description>
 <item>
 
+	<title>julien.lefrique: change to contact contact/jlefrique-public.key jlefrique-public.key on Julien Lefrique</title>
+	<dcterms:creator>julien.lefrique</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_97250ba1dac9858ef8a262ab8255bd132fd8c367/</guid>
+
+	<link>http://julien.lefrique.name/recentchanges/#change-97250ba1dac9858ef8a262ab8255bd132fd8c367</link>
+
+	<pubDate>Sun, 26 May 2013 13:43:18 +0200</pubDate>
+	<dcterms:modified>2013-05-26T11:43:18Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-97250ba1dac9858ef8a262ab8255bd132fd8c367&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+contact
+
+contact/jlefrique-public.key
+
+jlefrique-public.key
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;13:43:18 05/26/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Move public key.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>julien.lefrique: change to contact jlefrique-public.key on Julien Lefrique</title>
+	<dcterms:creator>julien.lefrique</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_b15796a6e05d48f5bec05f0a9bcce8d6e32130d5/</guid>
+
+	<link>http://julien.lefrique.name/recentchanges/#change-b15796a6e05d48f5bec05f0a9bcce8d6e32130d5</link>
+
+	<pubDate>Sun, 26 May 2013 13:31:05 +0200</pubDate>
+	<dcterms:modified>2013-05-26T11:31:05Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-b15796a6e05d48f5bec05f0a9bcce8d6e32130d5&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+contact
+
+jlefrique-public.key
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;13:31:05 05/26/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add contact informations.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
 	<title>julien.lefrique: change to about index jlefrique-wiki.setup on Julien Lefrique</title>
 	<dcterms:creator>julien.lefrique</dcterms:creator>
 
