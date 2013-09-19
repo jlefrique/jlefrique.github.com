@@ -58,7 +58,8 @@ nav {
 	border-bottom: 1px solid #000;
 }
 
-.inlinecontent {
+.inlinecontent,
+.inlineenclosure {
 	margin-top: .4em;
 }
 
@@ -323,6 +324,7 @@ div.progress-done {
 .popup .paren,
 .popup .expand {
 	display: none;
+	text-align: left;
 }
 .popup:hover .balloon,
 .popup:focus .balloon {
@@ -626,7 +628,7 @@ body {
 	padding: 2px;
 }
 
-#content, #comments, #footer {
+#content, #enclosure, #comments, #footer {
 	margin: 1em 2em;
 }
 

@@ -5,19 +5,191 @@
 <channel>
 <title>RecentChanges</title>
 <link>http://julien.lefrique.name/recentchanges/</link>
+
 <description>Julien Lefrique</description>
+<generator>ikiwiki</generator>
+<pubDate>Thu, 19 Sep 2013 18:46:00 +0200</pubDate>
 <item>
+	<title>change to hosts/larch on Julien Lefrique</title>
 
-	<title>julien.lefrique: change to contact contact/jlefrique-public.key jlefrique-public.key on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
+	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_23a28b96d2145a67078940a0c36c3bf7e2b3d814/</guid>
 
+	<link>http://julien.lefrique.name/recentchanges/#change-23a28b96d2145a67078940a0c36c3bf7e2b3d814</link>
+
+	<dc:creator>julien.lefrique</dc:creator>
+
+
+	<pubDate>Thu, 19 Sep 2013 18:46:00 +0200</pubDate>
+	<dcterms:modified>2013-09-19T16:46:00Z</dcterms:modified>
+
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-23a28b96d2145a67078940a0c36c3bf7e2b3d814&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+hosts/larch
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;18:46:00 09/19/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Typo.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+	<title>change to cv/cv-julien-lefrique-en.pdf on Julien Lefrique</title>
+
+	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_c17eb6219a0752e62c72e5e1ad81177aa1769648/</guid>
+
+	<link>http://julien.lefrique.name/recentchanges/#change-c17eb6219a0752e62c72e5e1ad81177aa1769648</link>
+
+	<dc:creator>julien.lefrique</dc:creator>
+
+
+	<pubDate>Thu, 19 Sep 2013 18:43:43 +0200</pubDate>
+	<dcterms:modified>2013-09-19T16:43:43Z</dcterms:modified>
+
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-c17eb6219a0752e62c72e5e1ad81177aa1769648&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+cv/cv-julien-lefrique-en.pdf
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;18:43:43 09/19/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Update CV.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+	<title>change to robots.txt on Julien Lefrique</title>
+
+	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_cc7ad2b42ff888b2b91ef92ed514a1a5f48445d2/</guid>
+
+	<link>http://julien.lefrique.name/recentchanges/#change-cc7ad2b42ff888b2b91ef92ed514a1a5f48445d2</link>
+
+	<dc:creator>julien.lefrique</dc:creator>
+
+
+	<pubDate>Sat, 03 Aug 2013 15:44:06 +0200</pubDate>
+	<dcterms:modified>2013-08-03T13:44:06Z</dcterms:modified>
+
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-cc7ad2b42ff888b2b91ef92ed514a1a5f48445d2&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+robots.txt
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;15:44:06 08/03/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add robots.txt.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+	<title>change to contact contact/jlefrique-public.key jlefrique-public.key on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_97250ba1dac9858ef8a262ab8255bd132fd8c367/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-97250ba1dac9858ef8a262ab8255bd132fd8c367</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sun, 26 May 2013 13:43:18 +0200</pubDate>
 	<dcterms:modified>2013-05-26T11:43:18Z</dcterms:modified>
+
 
 	<description>
 
@@ -66,17 +238,18 @@ Move public key.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to contact jlefrique-public.key on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to contact jlefrique-public.key on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_b15796a6e05d48f5bec05f0a9bcce8d6e32130d5/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-b15796a6e05d48f5bec05f0a9bcce8d6e32130d5</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sun, 26 May 2013 13:31:05 +0200</pubDate>
 	<dcterms:modified>2013-05-26T11:31:05Z</dcterms:modified>
+
 
 	<description>
 
@@ -123,17 +296,18 @@ Add contact informations.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to about index jlefrique-wiki.setup on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to about index jlefrique-wiki.setup on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_24625684e5cfbb76b7aac7abc9f17462294b19d1/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-24625684e5cfbb76b7aac7abc9f17462294b19d1</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Thu, 23 May 2013 19:49:53 +0200</pubDate>
 	<dcterms:modified>2013-05-23T17:49:53Z</dcterms:modified>
+
 
 	<description>
 
@@ -182,17 +356,18 @@ Add OpenID delegation.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to hosts hosts/gum hosts/larch hosts/walnut hosts/willow on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to hosts hosts/gum hosts/larch hosts/walnut hosts/willow on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_8e86fe3e38210fe4ce6a09d511c9fdcf34d26bb0/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-8e86fe3e38210fe4ce6a09d511c9fdcf34d26bb0</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Thu, 09 May 2013 10:47:31 +0200</pubDate>
 	<dcterms:modified>2013-05-09T08:47:31Z</dcterms:modified>
+
 
 	<description>
 
@@ -245,17 +420,18 @@ Add pages for some machines.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to cv on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to cv on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_a97c387b9c60c688206c7a94559808f7ed1d1351/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-a97c387b9c60c688206c7a94559808f7ed1d1351</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sun, 05 May 2013 22:38:54 +0200</pubDate>
 	<dcterms:modified>2013-05-05T20:38:54Z</dcterms:modified>
+
 
 	<description>
 
@@ -300,17 +476,18 @@ Add separator. Change header&amp;#39;s level.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to cv-julien-lefrique-en.pdf cv/cv-julien-lefrique-en.pdf on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to cv-julien-lefrique-en.pdf cv/cv-julien-lefrique-en.pdf on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_0a19af3935e55866424eb1608e3c07ce50b24466/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-0a19af3935e55866424eb1608e3c07ce50b24466</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sat, 04 May 2013 15:02:12 +0200</pubDate>
 	<dcterms:modified>2013-05-04T13:02:12Z</dcterms:modified>
+
 
 	<description>
 
@@ -357,17 +534,18 @@ Move the pdf into the right folder.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to cv-julien-lefrique-en.pdf cv on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to cv-julien-lefrique-en.pdf cv on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_b7615c08adb63d9d84722c559a94c26cd6cb9223/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-b7615c08adb63d9d84722c559a94c26cd6cb9223</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sat, 04 May 2013 15:00:09 +0200</pubDate>
 	<dcterms:modified>2013-05-04T13:00:09Z</dcterms:modified>
+
 
 	<description>
 
@@ -414,17 +592,18 @@ Add pdf version.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to misc sidebar on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to misc sidebar on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_be2b73990559ac883b20661861f8804e81e38687/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-be2b73990559ac883b20661861f8804e81e38687</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sat, 04 May 2013 14:54:30 +0200</pubDate>
 	<dcterms:modified>2013-05-04T12:54:30Z</dcterms:modified>
+
 
 	<description>
 
@@ -471,17 +650,18 @@ Add cv page to sidebar. Add misc page.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to cv on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to cv on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_fad6251e8aa93b515e59d484e2eca1d4976a0a38/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-fad6251e8aa93b515e59d484e2eca1d4976a0a38</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sat, 04 May 2013 14:52:29 +0200</pubDate>
 	<dcterms:modified>2013-05-04T12:52:29Z</dcterms:modified>
+
 
 	<description>
 
@@ -526,17 +706,18 @@ Change formatting.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to cv on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to cv on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_b1e1db487264e866104fc81885917d9e76cef148/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-b1e1db487264e866104fc81885917d9e76cef148</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sat, 04 May 2013 14:45:19 +0200</pubDate>
 	<dcterms:modified>2013-05-04T12:45:19Z</dcterms:modified>
+
 
 	<description>
 
@@ -581,17 +762,18 @@ Change formatting.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to jlefrique-wiki.setup on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to jlefrique-wiki.setup on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_ccd6e99566642b1ab27b02bbf72ce21ad777c4b7/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-ccd6e99566642b1ab27b02bbf72ce21ad777c4b7</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sat, 04 May 2013 14:30:50 +0200</pubDate>
 	<dcterms:modified>2013-05-04T12:30:50Z</dcterms:modified>
+
 
 	<description>
 
@@ -636,17 +818,18 @@ Change the location of the git repository.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to cv on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to cv on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_07b16ff9e937dcc27dc06155af001b71b0501915/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-07b16ff9e937dcc27dc06155af001b71b0501915</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sat, 04 May 2013 14:18:56 +0200</pubDate>
 	<dcterms:modified>2013-05-04T12:18:56Z</dcterms:modified>
+
 
 	<description>
 
@@ -691,17 +874,18 @@ Add cv page.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to contact on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to contact on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_1ace7c45fb3f62aca7926ad49edc6a772f77b304/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-1ace7c45fb3f62aca7926ad49edc6a772f77b304</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sun, 28 Apr 2013 21:18:45 +0200</pubDate>
 	<dcterms:modified>2013-04-28T19:18:45Z</dcterms:modified>
+
 
 	<description>
 
@@ -746,17 +930,18 @@ Add page title.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to contact jlefrique-wiki.setup sidebar on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to contact jlefrique-wiki.setup sidebar on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_d688fed397a7d0cd8ab853bc535287a4da44e3b7/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-d688fed397a7d0cd8ab853bc535287a4da44e3b7</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sun, 28 Apr 2013 18:52:34 +0200</pubDate>
 	<dcterms:modified>2013-04-28T16:52:34Z</dcterms:modified>
+
 
 	<description>
 
@@ -805,17 +990,18 @@ Add a sidebar.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to hosts jlefrique-wiki.setup on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to hosts jlefrique-wiki.setup on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_8660f0a80b03d757a73c4df59594045c829fdca8/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-8660f0a80b03d757a73c4df59594045c829fdca8</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sun, 28 Apr 2013 16:54:34 +0200</pubDate>
 	<dcterms:modified>2013-04-28T14:54:34Z</dcterms:modified>
+
 
 	<description>
 
@@ -862,17 +1048,18 @@ Add hosts page.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to favicon.ico index jlefrique-wiki.setup on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to favicon.ico index jlefrique-wiki.setup on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_48bcf4a4469a08b99f3ffadcce66b68786dd128c/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-48bcf4a4469a08b99f3ffadcce66b68786dd128c</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sun, 21 Apr 2013 21:26:41 +0200</pubDate>
 	<dcterms:modified>2013-04-21T19:26:41Z</dcterms:modified>
+
 
 	<description>
 
@@ -921,17 +1108,18 @@ Add a favicon.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to about on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to about on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_4bbc55c93fc0213ffdbfb9256e32fc3e16181f27/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-4bbc55c93fc0213ffdbfb9256e32fc3e16181f27</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sun, 21 Apr 2013 20:49:31 +0200</pubDate>
 	<dcterms:modified>2013-04-21T18:49:31Z</dcterms:modified>
+
 
 	<description>
 
@@ -976,17 +1164,18 @@ Add hyperlink.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to about index on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to about index on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_b59b83da968bd387d7d21fb0a53e3ce8d6cdba0d/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-b59b83da968bd387d7d21fb0a53e3ce8d6cdba0d</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sun, 21 Apr 2013 20:46:59 +0200</pubDate>
 	<dcterms:modified>2013-04-21T18:46:59Z</dcterms:modified>
+
 
 	<description>
 
@@ -1033,17 +1222,18 @@ Add index and about pages.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to CNAME on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to CNAME on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_76c7d130ac7de47e0f777bbb04ad2ae18b404ddd/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-76c7d130ac7de47e0f777bbb04ad2ae18b404ddd</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Sat, 20 Apr 2013 19:47:22 +0200</pubDate>
 	<dcterms:modified>2013-04-20T17:47:22Z</dcterms:modified>
+
 
 	<description>
 
@@ -1088,17 +1278,18 @@ Add CNAME.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to jlefrique-wiki.setup on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to jlefrique-wiki.setup on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_9746df57787f0a497c0ca08d900caf74d2164822/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-9746df57787f0a497c0ca08d900caf74d2164822</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Fri, 19 Apr 2013 21:01:15 +0200</pubDate>
 	<dcterms:modified>2013-04-19T19:01:15Z</dcterms:modified>
+
 
 	<description>
 
@@ -1143,17 +1334,18 @@ Restart from scratch.&lt;br /&gt;
 
 </item>
 <item>
-
-	<title>julien.lefrique: change to .gitignore on Julien Lefrique</title>
-	<dcterms:creator>julien.lefrique</dcterms:creator>
-
+	<title>change to .gitignore on Julien Lefrique</title>
 
 	<guid isPermaLink="false">http://julien.lefrique.name/recentchanges/change_dce597240b54b1d9764d29756245dac6699a1ac8/</guid>
 
 	<link>http://julien.lefrique.name/recentchanges/#change-dce597240b54b1d9764d29756245dac6699a1ac8</link>
 
+	<dc:creator>julien.lefrique</dc:creator>
+
+
 	<pubDate>Fri, 19 Apr 2013 20:51:21 +0200</pubDate>
 	<dcterms:modified>2013-04-19T18:51:21Z</dcterms:modified>
+
 
 	<description>
 

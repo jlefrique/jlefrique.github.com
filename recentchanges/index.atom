@@ -17,7 +17,193 @@
 
 <subtitle type="html">Julien Lefrique</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2013-05-26T11:43:18Z</updated>
+<updated>2013-09-19T16:46:00Z</updated>
+<entry>
+	<title>change to hosts/larch on Julien Lefrique</title>
+
+	<id>http://julien.lefrique.name/recentchanges/change_23a28b96d2145a67078940a0c36c3bf7e2b3d814/</id>
+
+	<link href="http://julien.lefrique.name/recentchanges/#change-23a28b96d2145a67078940a0c36c3bf7e2b3d814"/>
+
+	<author><name>julien.lefrique</name></author>
+
+
+
+
+
+	<updated>2013-09-19T16:46:00Z</updated>
+	<published>2013-09-19T16:46:00Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-23a28b96d2145a67078940a0c36c3bf7e2b3d814&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+hosts/larch
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;18:46:00 09/19/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Typo.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to cv/cv-julien-lefrique-en.pdf on Julien Lefrique</title>
+
+	<id>http://julien.lefrique.name/recentchanges/change_c17eb6219a0752e62c72e5e1ad81177aa1769648/</id>
+
+	<link href="http://julien.lefrique.name/recentchanges/#change-c17eb6219a0752e62c72e5e1ad81177aa1769648"/>
+
+	<author><name>julien.lefrique</name></author>
+
+
+
+
+
+	<updated>2013-09-19T16:43:43Z</updated>
+	<published>2013-09-19T16:43:43Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-c17eb6219a0752e62c72e5e1ad81177aa1769648&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+cv/cv-julien-lefrique-en.pdf
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;18:43:43 09/19/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Update CV.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to robots.txt on Julien Lefrique</title>
+
+	<id>http://julien.lefrique.name/recentchanges/change_cc7ad2b42ff888b2b91ef92ed514a1a5f48445d2/</id>
+
+	<link href="http://julien.lefrique.name/recentchanges/#change-cc7ad2b42ff888b2b91ef92ed514a1a5f48445d2"/>
+
+	<author><name>julien.lefrique</name></author>
+
+
+
+
+
+	<updated>2013-08-03T13:44:06Z</updated>
+	<published>2013-08-03T13:44:06Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-cc7ad2b42ff888b2b91ef92ed514a1a5f48445d2&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+robots.txt
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;15:44:06 08/03/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add robots.txt.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to contact contact/jlefrique-public.key jlefrique-public.key on Julien Lefrique</title>
 
@@ -33,6 +219,7 @@
 
 	<updated>2013-05-26T11:43:18Z</updated>
 	<published>2013-05-26T11:43:18Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -99,6 +286,7 @@ Move public key.&lt;br /&gt;
 	<updated>2013-05-26T11:31:05Z</updated>
 	<published>2013-05-26T11:31:05Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -161,6 +349,7 @@ Add contact informations.&lt;br /&gt;
 
 	<updated>2013-05-23T17:49:53Z</updated>
 	<published>2013-05-23T17:49:53Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -226,6 +415,7 @@ Add OpenID delegation.&lt;br /&gt;
 
 	<updated>2013-05-09T08:47:31Z</updated>
 	<published>2013-05-09T08:47:31Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -296,6 +486,7 @@ Add pages for some machines.&lt;br /&gt;
 	<updated>2013-05-05T20:38:54Z</updated>
 	<published>2013-05-05T20:38:54Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -356,6 +547,7 @@ Add separator. Change header&amp;#39;s level.&lt;br /&gt;
 
 	<updated>2013-05-04T13:02:12Z</updated>
 	<published>2013-05-04T13:02:12Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -420,6 +612,7 @@ Move the pdf into the right folder.&lt;br /&gt;
 	<updated>2013-05-04T13:00:09Z</updated>
 	<published>2013-05-04T13:00:09Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -482,6 +675,7 @@ Add pdf version.&lt;br /&gt;
 
 	<updated>2013-05-04T12:54:30Z</updated>
 	<published>2013-05-04T12:54:30Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -546,6 +740,7 @@ Add cv page to sidebar. Add misc page.&lt;br /&gt;
 	<updated>2013-05-04T12:52:29Z</updated>
 	<published>2013-05-04T12:52:29Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -606,6 +801,7 @@ Change formatting.&lt;br /&gt;
 
 	<updated>2013-05-04T12:45:19Z</updated>
 	<published>2013-05-04T12:45:19Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -668,6 +864,7 @@ Change formatting.&lt;br /&gt;
 	<updated>2013-05-04T12:30:50Z</updated>
 	<published>2013-05-04T12:30:50Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -728,6 +925,7 @@ Change the location of the git repository.&lt;br /&gt;
 
 	<updated>2013-05-04T12:18:56Z</updated>
 	<published>2013-05-04T12:18:56Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -790,6 +988,7 @@ Add cv page.&lt;br /&gt;
 	<updated>2013-04-28T19:18:45Z</updated>
 	<published>2013-04-28T19:18:45Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -850,6 +1049,7 @@ Add page title.&lt;br /&gt;
 
 	<updated>2013-04-28T16:52:34Z</updated>
 	<published>2013-04-28T16:52:34Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -916,6 +1116,7 @@ Add a sidebar.&lt;br /&gt;
 	<updated>2013-04-28T14:54:34Z</updated>
 	<published>2013-04-28T14:54:34Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -978,6 +1179,7 @@ Add hosts page.&lt;br /&gt;
 
 	<updated>2013-04-21T19:26:41Z</updated>
 	<published>2013-04-21T19:26:41Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -1044,6 +1246,7 @@ Add a favicon.&lt;br /&gt;
 	<updated>2013-04-21T18:49:31Z</updated>
 	<published>2013-04-21T18:49:31Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -1104,6 +1307,7 @@ Add hyperlink.&lt;br /&gt;
 
 	<updated>2013-04-21T18:46:59Z</updated>
 	<published>2013-04-21T18:46:59Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -1168,6 +1372,7 @@ Add index and about pages.&lt;br /&gt;
 	<updated>2013-04-20T17:47:22Z</updated>
 	<published>2013-04-20T17:47:22Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -1229,6 +1434,7 @@ Add CNAME.&lt;br /&gt;
 	<updated>2013-04-19T19:01:15Z</updated>
 	<published>2013-04-19T19:01:15Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -1289,6 +1495,7 @@ Restart from scratch.&lt;br /&gt;
 
 	<updated>2013-04-19T18:51:21Z</updated>
 	<published>2013-04-19T18:51:21Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
