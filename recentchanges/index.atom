@@ -17,7 +17,69 @@
 
 <subtitle type="html">Julien Lefrique</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2013-09-19T16:46:00Z</updated>
+<updated>2013-09-19T16:48:59Z</updated>
+<entry>
+	<title>change to cv/cv-julien-lefrique-en.pdf on Julien Lefrique</title>
+
+	<id>http://julien.lefrique.name/recentchanges/change_6d74b60b02febf7c65ca1df9dbe8673e91873b81/</id>
+
+	<link href="http://julien.lefrique.name/recentchanges/#change-6d74b60b02febf7c65ca1df9dbe8673e91873b81"/>
+
+	<author><name>julien.lefrique</name></author>
+
+
+
+
+
+	<updated>2013-09-19T16:48:59Z</updated>
+	<published>2013-09-19T16:48:59Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-6d74b60b02febf7c65ca1df9dbe8673e91873b81&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+cv/cv-julien-lefrique-en.pdf
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+julien.lefrique
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;18:48:59 09/19/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Update.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to hosts/larch on Julien Lefrique</title>
 
