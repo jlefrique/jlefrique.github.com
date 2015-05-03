@@ -107,8 +107,10 @@ use <code>&lt;TMPL_IF variable&gt;text&lt;TMPL_ELSE&gt;other text&lt;/TMPL_IF&gt
 
 <h2>template pages</h2>
 
-<p>Template pages are regular wiki pages that are used as templates for other
-pages.</p>
+<p>Template pages are regular wiki pages containing a
+<a href="http://ikiwiki.info/ikiwiki/directive/templatebody/">templatebody directive</a>,
+used as templates for other pages. The parts of the template
+page outside the directive can be used to document it.</p>
 
 <p>The <a href="http://ikiwiki.info/ikiwiki/directive/template/">template directive</a> allows
 template pages to be filled out and inserted into other pages in the wiki.</p>
@@ -127,6 +129,9 @@ template pages to be filled out and inserted into other pages in the wiki.</p>
 </p>
 
 
+
+<p>If the template does not contain a <code>templatebody</code> directive, the entire
+source of the page is used for the template. This is deprecated.</p>
 
 <h2>template files</h2>
 
@@ -215,7 +220,7 @@ Links:
 
 
 <div class="pagedate">
-Last edited <span class="date">Thu 11 Jul 2013 04:04:36 CEST</span>
+Last edited <span class="date">Fri 12 Sep 2014 22:23:58 CEST</span>
 <!-- Created <span class="date">Thu 11 Jul 2013 04:04:36 CEST</span> -->
 </div>
 

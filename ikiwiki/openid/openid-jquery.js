@@ -11,6 +11,12 @@ var providers_large = {
         icon: 'ikiwiki/openid/goa-account-google.png',
         url: 'https://www.google.com/accounts/o8/id'
     },
+    verisign: {
+        name: 'Verisign',
+        icon: 'ikiwiki/openid/verisign.png',
+        label: 'Enter your Verisign username:',
+        url: 'http://{username}.pip.verisignlabs.com/'
+    },
     yahoo: {
         name: 'Yahoo',      
         icon: 'ikiwiki/openid/goa-account-yahoo.png',
@@ -47,12 +53,6 @@ var providers_small = {
         icon: 'ikiwiki/openid/aol.png',
         label: 'Enter your AOL username:',
         url: 'http://openid.aol.com/{username}'
-    },
-    verisign: {
-        name: 'Verisign',
-        icon: 'ikiwiki/openid/verisign.png',
-        label: 'Enter your Verisign username:',
-        url: 'http://{username}.pip.verisignlabs.com/'
     }
 };
 var providers = $.extend({}, providers_large, providers_small);
